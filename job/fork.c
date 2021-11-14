@@ -15,3 +15,31 @@ int main()
 printf("HELLO 3 \n");
  return 0;
 }
+VirtualBox:-/Desktop/code$ gcc fork
+
+VirtualBox:-/Desktop/code$ ./a.out
+
+Sneha 1 
+Sneha 2
+Sneha 3
+VirtualBox:-/Desktop/codes 
+Sneha 3
+
+Sneha 2 
+ Sneha 1
+
+Sneha 3
+
+Sneha 2
+
+Sneha 3
+
+Sneha 3
+
+Sneha 3
+
+Sneha 2
+
+Sneha 3
+
+Sneha 3
